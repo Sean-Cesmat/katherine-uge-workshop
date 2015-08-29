@@ -1,0 +1,500 @@
+   95  rvm implode
+   96  \curl -L https://get.rvm.io | bash -s stable --ruby
+   97  sudo rm -rf /usr/local/
+   98  $ \curl -L https://get.rvm.io | bash -s stable --ruby
+   99  \curl -L https://get.rvm.io | bash -s stable --ruby
+  100  rails- v
+  101  rails -v
+  102  rails new pinteresting
+  103  cd pinteresting/
+  104  bundle show
+  105  rails server
+  106  git config --global user.name "Kate Lucas"
+  107  git config --global user.name
+  108  git config --global user.name katherinelucas@gmail.com
+  109  git config --global user.name "Kate Lucas"
+  110  git config --global user.name 
+  111  git config --global user.email katherinelucas@gmail.com
+  112  git config --global user.email 
+  113  pwd
+  114  cd Desktop/
+  115  cd pinteresting/
+  116  rails new pinteresting
+  117  cd pinteresting/
+  118  git status
+  119  git remote add origin git@github.com:coolsharkie/pinteresting.git
+  120  git push -u origin master
+  121  git remote add origin git@github.com:coolsharkie/pinteresting.git
+  122  git push -u origin master
+  123  git init
+  124  touch README.md
+  125  git init
+  126  git add README.md
+  127  git commit -m "first commit"
+  128  git remote add origin git@github.com:coolsharkie/pinteresting.git
+  129  git push -u origin master
+  130  git push -u origin master
+  131  git status
+  132  git add
+  133  "git add"
+  134  ls -a
+  135  git remote add origin git@github.com:coolsharkie/pinteresting2.git
+  136  git push -u origin master
+  137  touch README.md
+  138  git init
+  139  git add README.md
+  140  git commit -m "first commit"
+  141  git remote add origin git@github.com:coolsharkie/pinteresting.git
+  142  git push -u origin master
+  143  add untracked files
+  144  git add .
+  145  pwd
+  146  cd ~/Desktop
+  147  rails new pinteresting
+  148  cd pinteresting/
+  149  rails server
+  150  git config --global user.name "Kate Lucas"
+  151  git config --global user.email lucasonrun@gmail.com
+  152  git config --global user.email
+  153  cd Desktop/
+  154  cd pinteresting/
+  155  git init
+  156  git status
+  157  git add.
+  158  git add .
+  159  git status
+  160  git commit
+  161  cd Desktop
+  162  cd pinteresting/
+  163  git commit -am
+  164  cd Desktop/
+  165  cd pinteresting/
+  166  git status
+  167  git commit -am "initial commit"
+  168  git status
+  169  ls -a
+  170  ssh-keygen -t rsa
+  171  pbcopy < ~/. ssh/id_rsa.pub
+  172  ssh/id_rsa.pub
+  173  pbcopy < ~/.ssh/id_rsa.pub
+  174  ssh -T git@github.com
+  175  git remote add origin git@github.com:kateplucas/pinteresting.git
+  176  git push -u origin master
+  177  git status
+  178  git add .
+  179  git status
+  180  git commit -am
+  181  git commit -am "Changed the Readme.md"
+  182  git push
+  183  echo hello
+  184  ruby -v
+  185  cd Desktop
+  186  cd Programs
+  187  ruby newruby.rb
+  188  ruby test.rb
+  189  ruby test.rb
+  190  ruby test.rb
+  191  ruby test.rb
+  192  ruby test.rb
+  193  cd Desktop
+  194  cd programs
+  195  ruby test.rb
+  196  cd Desktop
+  197  cd programs
+  198  ruby test.rb
+  199  ruby test.rb
+  200  ruby test.rb
+  201  ruby test.rb
+  202  ruby test.rb
+  203  ruby test.rb
+  204  ruby test.rb
+  205  ruby test.rb
+  206  clear
+  207  ruby test.rb
+  208  ruby test.rb
+  209  ruby test.rb
+  210  ruby test.rb
+  211  ruby test.rb
+  212  ruby test.rb
+  213  ruby test.rb
+  214  ruby test.rb
+  215  ruby test.rb
+  216  ruby test.rb
+  217  clear
+  218  ruby test.rb
+  219  ruby test.rb
+  220  ruby test.rb
+  221  clera
+  222  clear
+  223  ruby test.rb
+  224  ruby test.rb
+  225  ruby test.rb
+  226  ruby test.rb
+  227  ruby test.rb
+  228  ruby test.rb
+  229  ruby test.rb
+  230  ruby test.rb
+  231  ruby test.rb
+  232  ruby test.rb
+  233  ruby test.rb
+  234  ruby test.rb
+  235  clera
+  236  clear
+  237  ruby test.rb
+  238  ruby test.rb
+  239  ruby test.rb
+  240  ruby test.rb
+  241  ruby test.rb
+  242  clear
+  243  rails generate controller pages home
+  244  cd ~/Desktop
+  245  cd pinteresting
+  246  rails server
+  247  python
+  248  python
+  249  python
+  250  python
+  251  python
+  252  perl -v
+  253  markdown.pl
+  254  cd Desktop
+  255  cd Markdown_1.0.1
+  256  markdown.pl
+  257  Markdown.pl
+  258  python
+  259  python
+  260  python
+  261  python
+  262  python
+  263  python
+  264  cd desktop
+  265  python
+  266  cd Desktop
+  267  python ec.py
+  268  cd Desktop
+  269  ec.py
+  270  cd Desktop
+  271  python ec.py
+  272  python
+  273  cd Desktop
+  274  python calculateOT.py
+  275  python calculateOT.py
+  276  python calculateOT.py
+  277  cd ~/Desktop
+  278  python computepay.py
+  279  python computepay.py
+  280  python computepay.py
+  281  python computepay.py
+  282  computepay.py
+  283  python computepay.py
+  284  python computepay.py
+  285  python computepay.py
+  286  python computepay.py
+  287  python computepay.py
+  288  computepay.py
+  289  python computepay.py
+  290  python computepay.py
+  291  python computepay.py
+  292  python computepay.py
+  293  python computepay.py
+  294  python computepay.py
+  295  python computepay.py
+  296  python computepay.py
+  297  python computepay.py
+  298  python computepay.py
+  299  python computepay.py
+  300  python computepay.py
+  301  python computepay.py
+  302  python computepay.py
+  303  python computepay.py
+  304  python computepay.py
+  305  python computepay.py
+  306  python computepay.py
+  307  python computepay.py
+  308  python computepay.py
+  309  python computepay.py
+  310  python computepay.py
+  311  python computepay.py
+  312  python
+  313  cd ~/Desktop
+  314  python computepay.py
+  315  python computepay.py
+  316  python computepay.py
+  317  python computepay.py
+  318  python
+  319  cd ~/Desktop
+  320  python computepay.py
+  321  python computepay.py
+  322  python computepay.py
+  323  python computepay.py
+  324  python computepay.py
+  325  python computepay.py
+  326  python computepay.py
+  327  python computepay.py
+  328  python computepay.py
+  329  python computepay.py
+  330  python computepay.py
+  331  python computepay.py
+  332  python computepay.py
+  333  python computepay.py
+  334  python computepay.py
+  335  python computepay.py
+  336  python computepay.py
+  337  python computepay.py
+  338  python computepay.py
+  339  python computepay.py
+  340  python computepay.py
+  341  python computepay.py
+  342  python computepay.py
+  343  python computepay.py
+  344  python computepay.py
+  345  cd ~/Desktop
+  346  python computepay.py
+  347  python computepay.py
+  348  python computepay.py
+  349  python computepay.py
+  350  cd ~/Desktop
+  351  python computepay.py
+  352  python computepay.py
+  353  cd ~/Desktop
+  354  python computepay.py
+  355  cd ~/Desktop
+  356  python computepay.py
+  357  python computepay.py
+  358  python computepay.py
+  359  python computepay.py
+  360  python computepay.py
+  361  python computepay.py
+  362  python computepay.py
+  363  python computepay.py
+  364  python computepay.py
+  365  ruby
+  366  ruby -v
+  367  cd Desktop
+  368  run test.rb
+  369  run test.rb
+  370  ruby test.rb
+  371  clear
+  372  ruby test.rb
+  373  cd ~/Desktop
+  374  ruby test.rb
+  375  ruby test.rb
+  376  ruby test.rn
+  377  ruby test.rb
+  378  ruby test.rb
+  379  clera
+  380  clear
+  381  ruby test.rb
+  382  javascript
+  383  cd ~/Desktop
+  384  script.js
+  385  /System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/Resources/jsc
+  386  /System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/Resources/jsc
+  387  cd
+  388  pwd
+  389  cd /~Desktop/codefellows
+  390  cd ~/Desktop/codefellows
+  391  open hello.html
+  392  open hello.html
+  393  open hello.html
+  394  open greeting.html
+  395  open greeting.html
+  396  open greeting.html
+  397  open greeting.html
+  398  open greeting.html
+  399  open greeting.html
+  400  clear
+  401  cd ~/Desktop/codefellows
+  402  open greeting.html
+  403  open game.html
+  404  cd ~/Desktop/codefellows
+  405  open game.html
+  406  cd ~/Desktop/js
+  407  open guessing_game.html
+  408  open guessing_game.html
+  409  open guessing_game.html
+  410  open guessing_game.html
+  411  cd ~/Desktop/js
+  412  open guessing_game.html
+  413  cd ~/Desktop/js
+  414  open guessing_game.html
+  415  open guessing_game.html
+  416  cd ~/Desktop/js
+  417  open guessing_game.html
+  418  cd ~/Desktop/js
+  419  open toppotdailybake.html
+  420  /Users/katelucas 
+  421  git config --global user.name "Kate Lucas"
+  422  git congif --global user.email "lucasontherun@gmail.com"
+  423  git config --global user.email "lucasontherun@gmail.com"
+  424  git clonehttps://github.com/bbice/donut_shop.git  
+  425  git clone https://github.com/bbice/donut_shop.git
+  426  cd donut shop
+  427  cd donut shop/
+  428  ;s
+  429  ls -la
+  430  subl .
+  431  cd donut_shop/
+  432  subl .
+  433  ls 'la
+  434  cd donut_shop/
+  435  ls -la
+  436  subl .
+  437  git--version
+  438  "git--version"
+  439  uname
+  440  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+  441  brew doctor
+  442  brew help
+  443  cd
+  444  brew doctor
+  445  clear
+  446  brew update
+  447  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+  448  rm -rf /usr/local/Cellar /usr/local/.git && brew cleanup
+  449  brew doctor
+  450  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  451  brew install ruby
+  452  cd 'brew --prefix'
+  453  cd `brew --prefix`
+  454  rm -rf Cellar
+  455  brew prune
+  456  rm `git ls-files`
+  457  rm -r Library/Homebrew Library/Aliases Library/Formula Library/Contributions
+  458  rm -rf .git
+  459  rm -rf ~/Library/Caches/Homebrew
+  460  cd `brew --prefix`
+  461  rm -Rf /usr/local/bin/brew 
+  462  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+  463  brew doctor
+  464  vi /usr/local/bin/brew 
+  465  vi /usr/local/bin/brew 
+  466  brew update
+  467  brew doctor
+  468  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  469  brew install ruby
+  470  clear
+  471  which ruby
+  472  ln -s /Users/username/.rvm/rubies/ruby-1.9.2-p290/bin/ruby /usr/bin/ruby
+  473  clear
+  474  cd ~/ln -s /Users/username/.rvm/rubies/ruby-1.9.2-p290/bin/ruby /usr/bin/ruby
+  475  /System/Library/Frameworks/Ruby.framework/
+  476  clear
+  477  /usr/bin
+  478  clear
+  479  /System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -v
+  480  ruby -v
+  481  clear
+  482  /System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -v
+  483  set -e
+  484  set -u
+  485  timestamp=$(date +%s)
+  486  if [[ -d /usr/lib/ruby ]]; then   /usr/bin/rsync -avxHEP /usr/lib/ruby/     /System/Library/Frameworks/Ruby.framework/Versions/Current/usr/lib/ruby/;   mv /usr/lib/ruby /usr/lib/ruby.backup.$timestamp;   ln -s ../../System/Library/Frameworks/Ruby.framework/Versions/Current/usr/lib/ruby /usr/lib/ruby; fi
+  487  if [[ -d /usr/lib/ruby/site_ruby ]]; then   /usr/bin/rsync -avxHEP /usr/lib/ruby/site_ruby/     /Library/Ruby/Site/;   mv /usr/lib/ruby/site_ruby /usr/lib/ruby/site_ruby.backup.$timestamp;   ln -s ../../../../../../../../../../Library/Ruby/Site /usr/lib/ruby/site_ruby; fi
+  488  /System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -v
+  489  clear
+  490  /System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -v
+  491  ruby -v
+  492  clear
+  493  /System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -v
+  494  set -e
+  495  set -u
+  496  timestamp=$(date +%s)
+  497  if [[ -d /usr/lib/ruby ]]; then   /usr/bin/rsync -avxHEP /usr/lib/ruby/     /System/Library/Frameworks/Ruby.framework/Versions/Current/usr/lib/ruby/;   mv /usr/lib/ruby /usr/lib/ruby.backup.$timestamp;   ln -s ../../System/Library/Frameworks/Ruby.framework/Versions/Current/usr/lib/ruby /usr/lib/ruby; fi
+  498  if [[ -d /usr/lib/ruby/site_ruby ]]; then   /usr/bin/rsync -avxHEP /usr/lib/ruby/site_ruby/     /Library/Ruby/Site/;   mv /usr/lib/ruby/site_ruby /usr/lib/ruby/site_ruby.backup.$timestamp;   ln -s ../../../../../../../../../../Library/Ruby/Site /usr/lib/ruby/site_ruby; fi
+  499  /System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -v
+  500  /System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -v
+  501  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  502  echo $EDITOR
+  503  brew doctor
+  504  clear
+  505  brew doctor
+  506  brew update
+  507  cd `brew --prefix`
+  508  rm -rf Cellar
+  509  brew prune
+  510  rm `git ls-files`
+  511  rm -r Library/Homebrew Library/Aliases Library/Formula Library/Contributions
+  512  rm -rf .git
+  513  rm -rf ~/Library/Caches/Homebrew
+  514  git --version
+  515  git config --global user.name 'YOUR FULL NAME'
+  516  clear
+  517  git config --global user.name 'Kate Lucas'
+  518  git config --global user.email 'katherinelucas@gmail.com'
+  519  curl -fsSL http://git.io/QxUaOQ | sh
+  520  git config --global user.name
+  521  git config --global user.email
+  522  clear
+  523  pwd
+  524  cd
+  525  pwd
+  526  cd ~/Downloads/
+  527  pwd
+  528  ls
+  529  ls -t
+  530  ls -l
+  531  ls -lt
+  532  ls -r
+  533  ls - rlt
+  534  ls -rlt
+  535  man ls
+  536  ls -k
+  537  ls -ks
+  538  ls -x
+  539  man ls
+  540  ls -G
+  541  man ls
+  542  man ls
+  543  cd ~
+  544  pwd
+  545  cd
+  546  pwd
+  547  ls - l
+  548  ls -l
+  549  cd ~/Desktop
+  550  ls
+  551  cd ~/codefellows
+  552  ls
+  553  cd~/Desktop/codefellows
+  554  cd ~/Desktop/codefellows
+  555  ls
+  556  open greeting.html
+  557  pwd
+  558  cd ~
+  559  pwd
+  560  ls
+  561  l
+  562  ls -l
+  563  /Users/katelucas/Desktop/
+  564  ls
+  565  ls -l
+  566  cd../..
+  567  cd ~/Documents
+  568  ls
+  569  cd ../Desktop
+  570  pwd
+  571  cd ~
+  572  cd src
+  573  cd ../Downloads/
+  574  cd ../Downloads/
+  575  cd ~sr
+  576  cd ~/src
+  577  cd
+  578  ls /
+  579  subl .
+  580  pwd
+  581  ruby -v
+  582  cd `brew --prefix`
+  583  gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+  584  /System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -v
+  585  history
+  586  history | less
+  587  history > moving.around.txt
+  588  ls
+  589  ls -t
+  590  ls - rt
+  591  ls -rt
+  592  ls -t | less
+  593  ls -l moving.around.txt
+  594  history > moving.around.txt
