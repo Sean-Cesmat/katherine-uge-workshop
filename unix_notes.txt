@@ -1,3 +1,5 @@
+  # Hidden files have names that begin with a dot.
+
    95  rvm implode
    96  \curl -L https://get.rvm.io | bash -s stable --ruby
    97  sudo rm -rf /usr/local/
@@ -13,9 +15,9 @@
   107  git config --global user.name
   108  git config --global user.name katherinelucas@gmail.com
   109  git config --global user.name "Kate Lucas"
-  110  git config --global user.name 
+  110  git config --global user.name
   111  git config --global user.email katherinelucas@gmail.com
-  112  git config --global user.email 
+  112  git config --global user.email
   113  pwd
   114  cd Desktop/
   115  cd pinteresting/
@@ -323,11 +325,11 @@
   417  open guessing_game.html
   418  cd ~/Desktop/js
   419  open toppotdailybake.html
-  420  /Users/katelucas 
+  420  /Users/katelucas
   421  git config --global user.name "Kate Lucas"
   422  git congif --global user.email "lucasontherun@gmail.com"
   423  git config --global user.email "lucasontherun@gmail.com"
-  424  git clonehttps://github.com/bbice/donut_shop.git  
+  424  git clonehttps://github.com/bbice/donut_shop.git
   425  git clone https://github.com/bbice/donut_shop.git
   426  cd donut shop
   427  cd donut shop/
@@ -364,11 +366,11 @@
   458  rm -rf .git
   459  rm -rf ~/Library/Caches/Homebrew
   460  cd `brew --prefix`
-  461  rm -Rf /usr/local/bin/brew 
+  461  rm -Rf /usr/local/bin/brew
   462  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
   463  brew doctor
-  464  vi /usr/local/bin/brew 
-  465  vi /usr/local/bin/brew 
+  464  vi /usr/local/bin/brew
+  465  vi /usr/local/bin/brew
   466  brew update
   467  brew doctor
   468  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
